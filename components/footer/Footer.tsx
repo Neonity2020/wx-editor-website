@@ -154,7 +154,6 @@ const footerLinks: FooterLink[] = [
     links: [
       { href: "/en", label: "English", useA: true },
       { href: "/zh", label: "中文", useA: true },
-      { href: "/ja", label: "日本語", useA: true },
     ],
   },
   {

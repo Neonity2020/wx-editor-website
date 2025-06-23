@@ -7,8 +7,6 @@ export default getRequestConfig(async ({ requestLocale }) => {
 
   if (locale?.startsWith('zh')) {
     locale = 'zh';
-  } else if (locale?.startsWith('ja')) {
-    locale = 'ja';
   } else {
     locale = 'en';
   }

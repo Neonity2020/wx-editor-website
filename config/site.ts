@@ -11,18 +11,18 @@ const EMAIL_URL = 'mailto:weijunext@gmail.com'
 const GITHUB_URL = 'https://github.com/weijunext'
 
 export const siteConfig: SiteConfig = {
-  name: "Next Forge",
-  tagLine: 'Multilingual Next.js 15 Starter',
+  name: "WX-Editor",
+  tagLine: 'WeChat Official Account Editor',
   description:
-    "A multilingual Next.js 15 starter with built-in i18n support. Launch your global-ready web application with a clean, efficient, and SEO-friendly foundation.",
+    "A Rich Text Editor for WeChat Official Account",
   url: BASE_URL,
   authors: [
     {
-      name: "weijunext",
-      url: "https://weijunext.com",
+      name: "neonity",
+      url: "https://neonity.com",
     }
   ],
-  creator: '@weijunext',
+  creator: '@neonity',
   socialLinks: {
     bluesky: BSKY_URL,
     twitter: TWITTER_URL,

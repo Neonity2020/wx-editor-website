@@ -11,10 +11,10 @@
     "proVersion": "Pro Version"
   },
   "Footer": {
-    "Copyright": "Copyright © {year} Next Forge. All rights reserved.",
+    "Copyright": "Copyright © {year} WX-Editor. All rights reserved.",
     "Newsletter": {
       "title": "Subscribe to our newsletter",
-      "description": "Get the latest news and updates from Next Forge",
+      "description": "Get the latest news and updates from WX-Editor",
       "defaultErrorMessage": "Please enter a valid email address",
       "successMessage": "Subscription successful",
       "errorMessage": "Subscription failed",
@@ -25,9 +25,9 @@
     }
   },
   "Home": {
-    "title": "Next Forge",
-    "tagLine": "Multilingual Next.js 15 Starter",
-    "description": "A multilingual Next.js 15 starter with built-in i18n support. Launch your global-ready web application with a clean, efficient, and SEO-friendly foundation.",
+    "title": "WX-Editor",
+    "tagLine": "WeChat Official Account Editor",
+    "description": "WeChat Official Account Editor",
     "whoIsUsing": "Who is Using This Starter"
   },
   "Blogs": {
